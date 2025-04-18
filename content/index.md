@@ -1,4 +1,5 @@
 ---
 title: cosmic-dust
 ---
-dust or gold?
+Orienne Floria
+![[index.png]]
